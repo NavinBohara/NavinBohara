@@ -8,5 +8,3 @@
   <li>❤️ Turning raw data into meaningful business insights</li>
   <li>📈 Excel, SQL, and Power BI as daily tools</li>
 </ul>
-
-
