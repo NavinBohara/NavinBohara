@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ss2.png" alt="Profile Banner" width="100%">
+  <img src="ss3.png" alt="Profile Banner" width="100%">
 </p>
 <p>
 • 📊 Aspiring Data Analyst / Business Analyst<br>
