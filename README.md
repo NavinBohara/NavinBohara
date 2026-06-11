@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" alt="Profile Banner" width="100%">
+  <img src="profile3.png" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Navin Bohara</h1>
